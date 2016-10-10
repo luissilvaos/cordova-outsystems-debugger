@@ -1,0 +1,8 @@
+{
+    "version": "0.0.1",
+    "name": "cordova-outsystems-debugger",
+    "cordova_name": "cordova-outsystems-debugger",    
+    "dependencies": {
+        "xml2js": "^0.4.17"
+    }
+}
